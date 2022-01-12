@@ -8,4 +8,4 @@ class Welcome extends React.Component {
     }
   }
 }
-s
+
