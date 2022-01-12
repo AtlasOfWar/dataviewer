@@ -29,10 +29,10 @@ export const GridContainer = styled(Grid)`
   @media screen and (max-width: 600px) {
     max-height: 24em;
   }
-  max-height: 10em;
+  max-height: 5em;
 `;
 export const GridContainer1 = styled(Grid)`
-  margin-top: 5em;
+  margin-bot: 10em;
 `;
 export const GridContainer2 = styled(Grid)`
   @media screen and (max-width: 600px) {

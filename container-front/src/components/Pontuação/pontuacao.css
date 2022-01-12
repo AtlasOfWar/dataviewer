@@ -1,0 +1,123 @@
+.arrumarTudo {
+  position: absolute;
+  width: 356px;
+  height: 61.61px;
+}
+
+.primeiro {
+  position: absolute;
+  width: 144.03px;
+  height: 44.01px;
+  left: 816.52px;
+  top: 470.17px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #373737;
+}
+
+.segundo {
+  position: absolute;
+  width: 144.03px;
+  height: 44.01px;
+  left: 816.52px;
+  top: 552.05px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #373737;
+}
+
+.terceiro {
+  position: absolute;
+  width: 144.03px;
+  height: 41.96px;
+  left: 816.52px;
+  top: 633.93px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #373737;
+}
+
+.alunos {
+  position: absolute;
+  width: 73.36px;
+  height: 22.52px;
+  left: 773.58px;
+  top: 427.18px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #C0C0C0;
+}
+
+.pontos {
+  position: absolute;
+  width: 73.36px;
+  height: 22.52px;
+  left: 1046px;
+  top: 424.53px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #C0C0C0;
+}
+
+.pont1 {
+  position: absolute;
+  width: 43px;
+  height: 22.72px;
+  left: 1054px;
+  top: 485.46px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.pont2 {
+  position: absolute;
+  width: 40.49px;
+  height: 18.42px;
+  left: 1054px;
+  top: 573.23px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.pont3 {
+  position: absolute;
+  width: 38.73px;
+  height: 20.47px;
+  left: 1054px;
+  top: 654.81px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}

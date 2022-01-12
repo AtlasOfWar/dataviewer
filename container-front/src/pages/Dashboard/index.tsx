@@ -10,6 +10,7 @@ import {
 import Logo from '../../components/Logo';
 import ClassCard from '../../components/ClassCard';
 import Menu from '../../components/Menu';
+import Pontuação from '../../components/Pontuação';
 import {
   ContainerRoot,
   GridItem,
@@ -102,6 +103,7 @@ const App: React.FC = () => {
           <Menu />
         </GridItem>
         <GridContainer1 item xs>
+          <Pontuação />
           <Grid
             container
             direction="row"
