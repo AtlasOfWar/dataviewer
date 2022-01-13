@@ -18,11 +18,10 @@ const PromotionForm = () => {
 
   return (
     <>
-      <Ranking nome1="oi" nome2="eae" nome3="salve" />
+      <Ranking name="oi" pontuacao={12} />
+      <Ranking name="oi" pontuacao={12} />
+      <Ranking name="oi" pontuacao={12} />
       <div className="arrumarTudo">
-        <div className="primeiro">
-          <p>Filipe Dantas</p>
-        </div>
         <div className="segundo">
           <p>Pedro Barreto Dantas</p>
         </div>
